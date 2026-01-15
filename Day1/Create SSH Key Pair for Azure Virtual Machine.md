@@ -1,5 +1,5 @@
 ### Tasks - Create an SSH key pair with the following requirements: 
-##### The name of the SSH key pair should be xfusion-kp
+#### The name of the SSH key pair should be xfusion-kp
 #### The key pair type must be rsa
 
 1. Log in at https://portal.azure.com using the provided credentials
