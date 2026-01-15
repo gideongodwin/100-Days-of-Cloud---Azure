@@ -1,4 +1,5 @@
 1. Log in at https://portal.azure.com using the provided credentials
+<img width="1920" height="570" alt="1" src="https://github.com/user-attachments/assets/1e709f3e-e9b1-4875-86f7-eef6c75fc6e6" />
 
 
 
