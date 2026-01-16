@@ -13,7 +13,7 @@
 
 <img width="958" height="907" alt="3" src="https://github.com/user-attachments/assets/b0ae0ae0-3ad7-46c5-a451-c86614313916" />
 
-5. Fill in the details and then clickon review + create button at the bottom
+5. Fill in the details and then click on review + create button at the bottom
 - Resource Group: Select an existing one
 - Key pair name: xfusion-kp
 - SSH public key source: Select Generate new key pair
