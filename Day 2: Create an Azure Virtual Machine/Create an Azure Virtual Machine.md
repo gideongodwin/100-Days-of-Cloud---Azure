@@ -1,4 +1,7 @@
+### Task - Create an Azure Virtual Machine
+
 1. Log in at https://portal.azure.com using the provided credentials
+
 2. Select the "Virtual Machines" from the Microsoft Azure portal dashboard
 
 <img width="684" height="506" alt="1" src="https://github.com/user-attachments/assets/0793550c-c6a5-4129-b6e5-6c903bc83d2a" />
@@ -11,10 +14,21 @@
 
 <img width="681" height="595" alt="3" src="https://github.com/user-attachments/assets/cdf98ba7-3514-4d49-a571-7306e728cdc6" />
 
-5. Select the image and size.
+5. Select the image and size
 
 <img width="683" height="602" alt="4" src="https://github.com/user-attachments/assets/a2c947ae-86d9-4f8a-b997-cfee2aa62524" />
 
 6. Allow inbound traffic for SSH on port 22, then click Next: Disks >
 
 <img width="683" height="402" alt="5" src="https://github.com/user-attachments/assets/59d52dd5-4ade-4a74-8d8f-db1035fdbb22" />
+
+7. Select the disk size and type, then click on the review + create button
+
+<img width="681" height="177" alt="6" src="https://github.com/user-attachments/assets/3b39acd1-e805-4fd5-9f93-72ab9a824ff8" />
+
+8. Locate the newly created VM on the Virtual Machines dashboard.
+
+<img width="681" height="603" alt="Screenshot 2026-01-16 115452" src="https://github.com/user-attachments/assets/e66690b3-d900-494e-b29f-817f37fd2dda" />
+
+
+
