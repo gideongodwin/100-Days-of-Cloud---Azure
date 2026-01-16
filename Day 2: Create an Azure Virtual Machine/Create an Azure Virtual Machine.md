@@ -1,1 +1,20 @@
+1. Log in at https://portal.azure.com using the provided credentials
+2. Select the "Virtual Machines" from the Microsoft Azure portal dashboard
 
+<img width="684" height="506" alt="1" src="https://github.com/user-attachments/assets/0793550c-c6a5-4129-b6e5-6c903bc83d2a" />
+
+3. From the Virtual Machines dashboard, select Create, then choose Virtual machine
+
+<img width="683" height="597" alt="2" src="https://github.com/user-attachments/assets/8164100d-1c26-4cac-9bcd-7c36bd3caffc" />
+
+4. Select the default resource group, enter the VM name, and choose the region
+
+<img width="681" height="595" alt="3" src="https://github.com/user-attachments/assets/cdf98ba7-3514-4d49-a571-7306e728cdc6" />
+
+5. Select the image and size.
+
+<img width="683" height="602" alt="4" src="https://github.com/user-attachments/assets/a2c947ae-86d9-4f8a-b997-cfee2aa62524" />
+
+6. Allow inbound traffic for SSH on port 22, then click Next: Disks >
+
+<img width="683" height="402" alt="5" src="https://github.com/user-attachments/assets/59d52dd5-4ade-4a74-8d8f-db1035fdbb22" />
