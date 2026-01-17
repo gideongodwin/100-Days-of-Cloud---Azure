@@ -12,7 +12,7 @@ Steps
    
      az vm create \
      -g $group \\\
-     -n xfusion-vm \\
+     -n xfusion-vm \\\
      --image Ubuntu2204 \\
      --size Standard_B2s \\
      --admin-username azureuser \\
