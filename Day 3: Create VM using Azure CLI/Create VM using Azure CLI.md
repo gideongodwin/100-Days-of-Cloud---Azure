@@ -10,7 +10,7 @@ Steps
    az group list
 2. Run the following command:
    
-    > az vm create \
+     az vm create \
     > -g $group \
     > -n xfusion-vm \
     > --image Ubuntu2204 \
