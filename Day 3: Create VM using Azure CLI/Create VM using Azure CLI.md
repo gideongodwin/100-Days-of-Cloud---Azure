@@ -3,3 +3,19 @@ The Nautilus DevOps team is in the process of migrating some of their workloads 
 2) Use the Ubuntu2204 Image and set the VM size to Standard_825
 3) Make sure the admin username is set to azureuser and SSH keys are generated for secure access.
 4) Use Standard LRS storage account, disk size must be 30GB and ensure the VM xfusion-vm is in the running state after creation.
+
+
+Steps
+1. Check the resource group name using the following command:
+   az group list
+2. Run the following command:
+   
+    > az vm create \
+    > -g $group \
+    > -n xfusion-vm \
+    > --image Ubuntu2204 \
+    > --size Standard_B2s \
+    > --admin-username azureuser \
+    > --generate-ssh-keys \
+    > --storage-sku Standard_LRS \
+    > --data-disk-sizes-gb 30 
