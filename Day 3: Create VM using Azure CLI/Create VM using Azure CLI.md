@@ -10,8 +10,8 @@ Steps
    az group list
 2. Run the following command:
    
-     az vm create \\
-     -g $group \\
+     az vm create \
+     -g $group \\\
      -n xfusion-vm \\
      --image Ubuntu2204 \\
      --size Standard_B2s \\
