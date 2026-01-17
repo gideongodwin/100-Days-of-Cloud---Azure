@@ -13,9 +13,9 @@ Steps
      az vm create \
      -g $group \\\
      -n xfusion-vm \\\
-     --image Ubuntu2204 \\
-     --size Standard_B2s \\
-     --admin-username azureuser \\
-     --generate-ssh-keys \\
-     --storage-sku Standard_LRS \\
+     --image Ubuntu2204 \\\
+     --size Standard_B2s \\\
+     --admin-username azureuser \\\
+     --generate-ssh-keys \\\
+     --storage-sku Standard_LRS \\\
      --data-disk-sizes-gb 30 
