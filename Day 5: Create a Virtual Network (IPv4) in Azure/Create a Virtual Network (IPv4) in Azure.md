@@ -2,7 +2,7 @@ Create a Virtual Network (VNet) named `xfusion-vnet` in the `East us region` wit
 
 Steps:
 
-1. Log in at https://portal.azure.com using the provided credentials
+1. Sign in to the [Azure Portal](https://portal.azure.com/) using the provided credentials
 
 2. Use the global search bar to search for “Virtual network.” From the results, select “Virtual network.”
 
