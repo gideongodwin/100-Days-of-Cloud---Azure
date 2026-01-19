@@ -1,4 +1,15 @@
-### Task - Create an Azure Virtual Machine
+## Day 2: Create an Azure Virtual Machine
+
+#### Task Details:
+The Nautilus DevOps team is planning to migrate a portion of their infrastructure to the Azure cloud incrementally. As part of this migration, you are tasked with creating an Azure Virtual Machine (VM).
+The requirements are:
+- Use the existing resource group.
+-  The VM name must be xfusion-vm, it should be in West us region.
+-  Use the Ubuntu 22.04 LTS image for the VM.
+-  The VM size must be standard Bis.
+-  Attach a default Network Security Group (NSG) that allows inbound SSH (port 22).
+-  Attach a 30 GB storage disk of type Standard HDD.
+-  The rest of the configurations should remain as default.
 
 1. Sign in to the [Azure Portal](https://portal.azure.com/) using the provided credentials
 
