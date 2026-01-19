@@ -12,7 +12,7 @@
 
 <img width="679" height="600" alt="Screenshot 2026-01-19 141124" src="https://github.com/user-attachments/assets/091b9b36-5a4d-49a3-82c4-68b1aec6ef74" />
 
-5. On the IP address tab, click Next, update the default subnet name to datacenter-subnet, and then select Save
+5. On the IP address tab, click Next, update the default subnet name to devops-subnet, and then select Save
 
 <img width="678" height="602" alt="Screenshot 2026-01-19 141458" src="https://github.com/user-attachments/assets/d67555b3-977a-4767-b542-f3bf8464f10f" />
 
