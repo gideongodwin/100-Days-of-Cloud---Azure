@@ -22,5 +22,22 @@ You may need to adjust the firewall or security group rules for the VM to allow 
 #### STEPS:
 1. Identify the Resource Group
     `az group list`
+2. Retrieve the Virtual Machine Public IP Address
+   `az vm list-ip-addresses -g <resource-group> -n datacenter-vm`
+   - Record the public IP address for use in the following steps.
+3. Copy the SSH Public Key to the Virtual Machine
+   - Use scp to copy the root user’s SSH public key from the Azure client host to a temporary directory on the virtual machine.
+     `scp /root/.ssh/id_rsa.pub azureuser@<VM_PUBLIC_IP>:/tmp/`
+4. Add the Public Key to Root Authorized Keys
+   -Connect to the virtual machine, switch to the root user, and add the public key to the root user’s `authorized_keys` file.
+   - `ssh -T azureuser@<VM_PUBLIC_IP> <<-EOF`
+   - `sudo -i`
+   - `cat /tmp/id_rsa.pub > /root/.ssh/authorized_keys`
+   - `rm /tmp/id_rsa.pub`
+   - `EOF`
+5. Verify that password-less SSH access is enabled by connecting as the root user.
+   - `ssh root@<VM_PUBLIC_IP>`
+6. Exit the session after verification
+   - `exit`
 
 
