@@ -20,7 +20,7 @@ Ensure that the VM is up and running before attempting to SSH.
 You may need to adjust the firewall or security group rules for the VM to allow SSH access.
 
 #### STEPS:
-1: Identify the Resource Group
-    -  `az group list`
+1. Identify the Resource Group
+    `az group list`
 
 
