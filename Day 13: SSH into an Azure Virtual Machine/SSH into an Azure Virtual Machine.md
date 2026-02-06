@@ -21,6 +21,6 @@ You may need to adjust the firewall or security group rules for the VM to allow 
 
 #### STEPS:
 1: Identify the Resource Group
-    `az group list`
+    -  `az group list`
 
 
