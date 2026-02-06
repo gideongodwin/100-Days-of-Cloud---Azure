@@ -16,6 +16,7 @@ Important Notes:
 Ensure that the VM is up and running before attempting to SSH.
 You may need to adjust the firewall or security group rules for the VM to allow SSH access.
 
+STEPS:
 1. Sign in to the [Azure Portal](https://portal.azure.com/)
 
 2. On the virtual machines dashboard, select the available vm `xfusion-vm`
