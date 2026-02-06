@@ -23,7 +23,7 @@ You may need to adjust the firewall or security group rules for the VM to allow 
 1. Identify the Resource Group
     `az group list`
 2. Retrieve the Virtual Machine Public IP Address
-   `az vm list-ip-addresses -g <resource-group> -n datacenter-vm`
+   `az vm list-ip-addresses -g <resource-group> -n xfusion-vm`
    - Record the public IP address for use in the following steps.
 3. Copy the SSH Public Key to the Virtual Machine
    - Use scp to copy the root user’s SSH public key from the Azure client host to a temporary directory on the virtual machine.
