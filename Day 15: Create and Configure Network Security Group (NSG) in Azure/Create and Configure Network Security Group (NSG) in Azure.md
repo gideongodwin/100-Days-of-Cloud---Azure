@@ -27,17 +27,11 @@ For this task, create a network security group (NSG) with the following requirem
 
 6. From the NSG, select Settings and then Inbound security rules.
 7. Click on the Add button to add inbound security rule
-
-<img width="959" height="862" alt="Screenshot 2026-02-07 182509" src="https://github.com/user-attachments/assets/e07ad8bb-c2ca-426c-82de-4ef6e15cc677" />
-
 8. Configure the rule with the following values
-   
-          | Setting                 | Value      |
-          |-------------------------|------------|
-          | Name                    | Allow-HTTP |
-          | Service                 | HTTP       |
-          | Destination port ranges | 80         |
-          | CIDR ranges             | 0.0.0.0/0  |
-
-<img width="959" height="862" alt="Screenshot 2026-02-07 182509" src="https://github.com/user-attachments/assets/48533949-1c4b-44fb-a571-c2395d682c50" />
-
+<img width="959" height="862" alt="Screenshot 2026-02-07 182509" src="https://github.com/user-attachments/assets/e07ad8bb-c2ca-426c-82de-4ef6e15cc677" />
+| Setting                 | Value      |
+|-------------------------|------------|
+| Name                    | Allow-HTTP |
+| Service                 | HTTP       |
+| Destination port ranges | 80         |
+| CIDR ranges             | 0.0.0.0/0  |
