@@ -36,5 +36,27 @@ For this task, create a network security group (NSG) with the following requirem
     | Destination port ranges | 80         |
     | CIDR ranges             | 0.0.0.0/0  |
 
+9. Select Add to create the rule.
+
 <img width="959" height="862" alt="Screenshot 2026-02-07 182509" src="https://github.com/user-attachments/assets/e07ad8bb-c2ca-426c-82de-4ef6e15cc677" />
+<img width="959" height="307" alt="Screenshot 2026-02-07 182523" src="https://github.com/user-attachments/assets/7d683195-9cc9-41de-a95e-bde107288606" />
+
+10. Select Add inbound security rule again
+11. Configure the rule with the following values:
+
+    | Setting                 | Value      |
+    |-------------------------|------------|
+    | Name                    | Allow-SSH  |
+    | Service                 | SSH        |
+    | Destination port ranges | 22         |
+    | CIDR ranges             | 0.0.0.0/0  |
+
+12. Select Add to create the rule.
+
+<img width="954" height="864" alt="Screenshot 2026-02-07 182657" src="https://github.com/user-attachments/assets/acc804b7-94cc-4a6a-83ba-0b7c7a5e0896" />
+<img width="957" height="305" alt="Screenshot 2026-02-07 182708" src="https://github.com/user-attachments/assets/4dab0b32-1127-49b3-a3ff-336fe5b03c97" />
+
+
+
+
 
