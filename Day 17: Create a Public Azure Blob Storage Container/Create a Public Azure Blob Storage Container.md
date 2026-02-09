@@ -1,4 +1,4 @@
-<img width="680" height="594" alt="Screenshot 2026-02-09 130511" src="https://github.com/user-attachments/assets/46bb4021-9687-4826-aae5-01891b5a6536" />## Day 17: Create a Public Azure Blob Storage Container
+## Day 17: Create a Public Azure Blob Storage Container
 
 #### Task Details:
 As part of the data migration process, the Nautilus DevOps team is actively creating several storage containers on Azure. They plan to utilize public Blob containers to store the relevant data. Given the ongoing migration of other infrastructure to Azure, it is logical to consolidate data storage within the Azure environment as well.
@@ -21,5 +21,22 @@ As part of the data migration process, the Nautilus DevOps team is actively crea
 
 <img width="680" height="594" alt="Screenshot 2026-02-09 130511" src="https://github.com/user-attachments/assets/cbf55c50-df45-4357-8e14-b1ccab25db6e" />
 
-9. 
+9. On the Settings pane, select Configuration, and then enable `Allow Blob Anonymous Access` and clik on Save.
+
+<img width="679" height="592" alt="Screenshot 2026-02-09 130619" src="https://github.com/user-attachments/assets/bb83f61f-e4e6-478f-a420-0c8cca4606c0" />
+
+10. On the Data storage pane, select Containers, choose the newly created container, and then select `Change access level`
+
+<img width="676" height="502" alt="Screenshot 2026-02-09 130740" src="https://github.com/user-attachments/assets/980e02a2-027c-49f7-b731-d811ed4c4e2a" />
+
+11. Select `Containers (anonymous read access for containers and blobs)`
+
+<img width="685" height="393" alt="Screenshot 2026-02-09 130929" src="https://github.com/user-attachments/assets/7df39339-8e30-445a-a778-88c180c69b00" />
+
+
+
+
+
+
+
 
