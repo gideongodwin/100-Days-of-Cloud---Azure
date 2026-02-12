@@ -20,7 +20,15 @@ Step 2: Update Virtual Network Properties \
 }` \
 `"addressSpace": {
     "addressPrefixes": ["192.168.0.0/16"]
-}`
+}` \
+- Save and close the file `(:wq in vim)`
+
+Step 3: Identify the Target Resource Group \
+`az group list --query '[].name' --output table | grep 'kml'`
+
+Step 4: Deploy the ARM Template \
+`az deployment group create -g kml_rg_main-b2f04454328949ae --template-file /root/arm-templates/vnet-deployment-template.json`
+
 
 
 
