@@ -9,7 +9,7 @@ You are tasked with modifying an ARM template for deploying a virtual network. T
 - Use the following command to find out the resource group to use:
   `az group list --query '[].name' --output table | grep 'kml'`
 
-Step 1: Open the ARM Template for Editing
+Step 1: Open the ARM Template for Editing /n
 `vim /root/arm-templates/vnet-deployment-template.json`
 
 
