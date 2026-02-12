@@ -17,7 +17,11 @@ Step 2: Update Virtual Network Properties \
 `"tags": {
   "displayName": "arm-vnet-xfusion",
   "Environment": "KKE-xfusion"
+}` \
+`"addressSpace": {
+    "addressPrefixes": ["192.168.0.0/16"]
 }`
+
 
 
 
