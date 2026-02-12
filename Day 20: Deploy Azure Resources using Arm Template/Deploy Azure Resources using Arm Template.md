@@ -12,4 +12,14 @@ You are tasked with modifying an ARM template for deploying a virtual network. T
 Step 1: Open the ARM Template for Editing \
 `vim /root/arm-templates/vnet-deployment-template.json`
 
+Step 2: Update Virtual Network Properties \
+`"name": "arm-vnet-xfusion"` \
+`"tags": {
+  "displayName": "arm-vnet-xfusion",
+  "Environment": "KKE-xfusion"
+}`
+
+
+
+
 
