@@ -1,6 +1,5 @@
 ## Day 22: Configuring Instances with User Data
 
-<img width="681" height="347" alt="Screenshot 2026-02-16 120542" src="https://github.com/user-attachments/assets/4792cfe0-69b8-4195-b246-df866da6298b" />
 #### Task Details:
 The Nautilus DevOps Team is working on setting up a new virtual machine (VM) to host a web server for a critical application. The team lead has requested you to create an Azure VM that will serve as a web server using Nginx. This VM will be part of the initial infrastructure setup for the Nautilus project. Ensuring that the server is correctly configured and accessible from the internet is crucial for the upcoming deployment phase.
 As a member of the Nautilus DevOps Team, your task is to create a VM with the following specifications:
