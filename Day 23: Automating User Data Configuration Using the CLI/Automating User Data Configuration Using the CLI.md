@@ -66,10 +66,10 @@ Use the Azure CLI commands to complete the task.
      `--storage-sku Standard_LRS` \
    
 3. Make Script Executable
-`chmod +x deployment.sh`
+`chmod +x deployment.sh` \
 
 4. Run the Script
-`./deployment.sh datacenter user-data.txt`
+`./deployment.sh datacenter user-data.txt` \
 
 
 
