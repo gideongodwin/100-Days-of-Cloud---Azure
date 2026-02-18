@@ -31,8 +31,10 @@ Use the Azure CLI commands to complete the task.
 2. Create the Deployment Script \
    `vi deployment.sh` \
    Add the following content: \
-   `#!/bin/bash` \ 
+   `#!/bin/bash` \
+   
     `name=$1` \
+
     `script=$2` \
 
    `rg=$(az group list --query '[].name' --output tsv | grep kml)`
@@ -71,5 +73,5 @@ Use the Azure CLI commands to complete the task.
      --size Standard_B1s \
      --storage-sku Standard_LRS
    
-3. 
+4. 
       
