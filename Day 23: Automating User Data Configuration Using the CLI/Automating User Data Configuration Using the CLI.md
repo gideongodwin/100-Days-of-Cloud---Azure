@@ -31,9 +31,9 @@ Use the Azure CLI commands to complete the task.
 2. Create the Deployment Script \
    `vi deployment.sh` \
    Add the following content: \
-   `#!/bin/bash` \ 
-    `name=$1` \
-    `script=$2` \
+   `#!/bin/bash`\ 
+    `name=$1`\
+    `script=$2`\
 
    `rg=$(az group list --query '[].name' --output tsv | grep kml)`
 
