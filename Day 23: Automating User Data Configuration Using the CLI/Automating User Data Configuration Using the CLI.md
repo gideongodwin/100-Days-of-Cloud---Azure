@@ -35,41 +35,35 @@ Use the Azure CLI commands to complete the task.
     `name=$1` \
     `script=$2` \ 
 
-   `rg=$(az group list --query '[].name' --output tsv | grep kml)`
+   `rg=$(az group list --query '[].name' --output tsv | grep kml)` \
+   
+   `az network nsg create \` \
+     `--name "${name}-nsg" \` \
+     `--resource-group $rg` \
+   
+   `az network nsg rule create \` \
+     `--name Allow80Inbound \` \
+     `--resource-group $rg \` \
+     `--nsg-name "${name}-nsg" \` \
+     `--priority 1010 \` \
+     `--access Allow \` \
+     `--direction Inbound \` \
+     `--source-address-prefixes "*" \` \
+     `--source-port-ranges "*" \` \
+     `--destination-address-prefixes "*" \` \
+     `--destination-port-ranges 80 \` \
+     `--protocol Tcp` \
 
-   <!-- This is a comment in Markdown -->
-
-   
-   # Create Network Security Group
-   az network nsg create \
-     --name "${name}-nsg" \
-     --resource-group $rg
-   
-   # Allow HTTP (port 80) inbound
-   az network nsg rule create \
-     --name Allow80Inbound \
-     --resource-group $rg \
-     --nsg-name "${name}-nsg" \
-     --priority 1010 \
-     --access Allow \
-     --direction Inbound \
-     --source-address-prefixes "*" \
-     --source-port-ranges "*" \
-     --destination-address-prefixes "*" \
-     --destination-port-ranges 80 \
-     --protocol Tcp
-   
-   # Create Virtual Machine
-   az vm create \
-     --name "${name}-vm" \
-     --resource-group $rg \
-     --image Ubuntu2404 \
-     --admin-username azureuser \
-     --generate-ssh-keys \
-     --nsg "${name}-nsg" \
-     --custom-data "${script}" \
-     --size Standard_B1s \
-     --storage-sku Standard_LRS
+      `az vm create \` \
+    ` --name "${name}-vm" \` \
+     `--resource-group $rg \` \
+     `--image Ubuntu2404 \` \
+     `--admin-username azureuser \` \
+     `--generate-ssh-keys \` \
+     `--nsg "${name}-nsg" \` \
+     `--custom-data "${script}" \` \
+     `--size Standard_B1s \` \
+     `--storage-sku Standard_LRS` \
    
 4. 
       
