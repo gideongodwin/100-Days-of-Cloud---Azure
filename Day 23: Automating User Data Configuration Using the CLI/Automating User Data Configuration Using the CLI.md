@@ -65,11 +65,11 @@ Use the Azure CLI commands to complete the task.
      `--size Standard_B1s \` \
      `--storage-sku Standard_LRS` \
    
-3. Make Script Executable
-`chmod +x deployment.sh` \
+3. Make Script Executable \
+`chmod +x deployment.sh` 
 
-4. Run the Script
-`./deployment.sh datacenter user-data.txt` \
+4. Run the Script \
+`./deployment.sh datacenter user-data.txt` 
 
 
 
