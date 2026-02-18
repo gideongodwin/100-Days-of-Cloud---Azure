@@ -23,7 +23,7 @@ Use the Azure CLI commands to complete the task.
 1. Create the Cloud-Init Script (Custom Data) \
    `vi user-data.txt` \
    Add the following content:
-   `#!/bin/bash
-   apt update -y && apt install nginx -y
+   `#!/bin/bash \
+   apt update -y && apt install nginx -y \
    systemctl start nginx`
    
