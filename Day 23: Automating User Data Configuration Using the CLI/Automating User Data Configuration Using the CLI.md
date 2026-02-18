@@ -32,12 +32,13 @@ Use the Azure CLI commands to complete the task.
    `vi deployment.sh`
    Add the following content: \
    `#!/bin/bash` \ 
+    `name=$1` 
+    `script=$2`
 
-   name=$1
-   script=$2
-   
-   # Get resource group dynamically
-   rg=$(az group list --query '[].name' --output tsv | grep kml)
+   `rg=$(az group list --query '[].name' --output tsv | grep kml)`
+
+   <!-- This is a comment in Markdown -->
+
    
    # Create Network Security Group
    az network nsg create \
