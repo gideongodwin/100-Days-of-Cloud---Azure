@@ -28,7 +28,7 @@ Use the Azure CLI commands to complete the task.
    `systemctl start nginx` \
    Save and exit
 
-3. Create the Deployment Script
+2. Create the Deployment Script
    `vi deployment.sh`
    Add the following content: \
    `#!/bin/bash` \ 
