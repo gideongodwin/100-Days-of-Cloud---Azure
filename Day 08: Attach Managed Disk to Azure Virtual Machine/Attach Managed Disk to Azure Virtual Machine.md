@@ -14,6 +14,6 @@ An existing VM named `nautilus-vm` and a managed disk named `nautilus-disk` alre
 
 <img width="544" height="297" alt="Screenshot 2026-02-20 144544" src="https://github.com/user-attachments/assets/46512825-77c1-4c9f-8a69-091ec7c306a1" />
  
-4. On the Virtual machine pane, select Disks, and then attach a new disk.
+4. On the Virtual machine pane, select Disks, and then attach existing disk.
 
 <img width="1364" height="600" alt="Screenshot 2026-01-19 150211" src="https://github.com/user-attachments/assets/4f50749e-2e13-4e2d-9f04-85a05d4bfeb5" />
