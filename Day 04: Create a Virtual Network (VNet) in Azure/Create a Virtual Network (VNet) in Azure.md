@@ -3,6 +3,8 @@
 #### Task Details: 
 - Create a Virtual Network (VNet) named xfusion-vnet in the East US region with any IPv4 CIDR block.
 
+#### STEPS
+
 1. Sign in to the [Azure Portal](https://portal.azure.com/)
 
 2. Use the global search bar to search for “Virtual network.” From the results, select “Virtual network.”
