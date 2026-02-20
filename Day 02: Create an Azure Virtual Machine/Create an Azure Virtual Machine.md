@@ -25,7 +25,7 @@ The requirements are:
 
 4. Select the default resource group, enter the VM name, and choose the region
 
-<img width="681" height="595" alt="3" src="https://github.com/user-attachments/assets/cdf98ba7-3514-4d49-a571-7306e728cdc6" />
+<img width="681" height="423" alt="536775124-cdf98ba7-3514-4d49-a571-7306e728cdc6" src="https://github.com/user-attachments/assets/875bc398-c66e-4ed2-8a0a-24e75a24a37f" />
 
 5. Select the image and size
 
