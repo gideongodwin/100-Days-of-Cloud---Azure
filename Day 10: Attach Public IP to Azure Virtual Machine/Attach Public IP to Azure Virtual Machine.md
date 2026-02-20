@@ -11,7 +11,7 @@ Make sure the VM is properly assigned the public IP
 
 2. On the virtual network dashboard, select Public IP addresses and then select the available IP addresses.
 
-<img width="685" height="598" alt="Screenshot 2026-01-21 110050" src="https://github.com/user-attachments/assets/d957ee26-af14-4860-8e94-0ea45654e9f9" />
+<img width="685" height="347" alt="Untitled" src="https://github.com/user-attachments/assets/4d665cb1-bc09-45ca-89d9-869f38497295" />
 
 3. On the Public IP address overview page, select Associate to attach the public IP address to the virtual machine.
 
