@@ -6,7 +6,7 @@ The Nautilus DevOps team has already set up a virtual machine and allocated a pu
 - Attach the public `nautilus-pip` to the network interface of the VM Hautilus `nautilus-vm-pip`
 Make sure the VM is properly assigned the public IP
 
-Steps:
+#### STEPS:
 1. Sign in to the [Azure Portal](https://portal.azure.com/)
 
 2. On the virtual network dashboard, select Public IP addresses and then select the available IP addresses.
