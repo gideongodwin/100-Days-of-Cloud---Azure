@@ -13,9 +13,9 @@ The requirements are:
 
 1. Sign in to the [Azure Portal](https://portal.azure.com/)
 
-2. Select the "Virtual Machines" from the Microsoft Azure portal dashboard
-
-<img width="684" height="506" alt="1" src="https://github.com/user-attachments/assets/0793550c-c6a5-4129-b6e5-6c903bc83d2a" />
+2. Select the "Virtual Machines" from the Azure portal  
+ 
+<img width="684" height="249" alt="536766168-0793550c-c6a5-4129-b6e5-6c903bc83d2a" src="https://github.com/user-attachments/assets/16c67d04-3fc0-455a-936f-f0641d399db4" />
 
 3. From the Virtual Machines dashboard, select Create, then choose Virtual machine
 
