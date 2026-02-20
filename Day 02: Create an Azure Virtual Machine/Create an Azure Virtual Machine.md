@@ -39,9 +39,5 @@ The requirements are:
 
 <img width="681" height="177" alt="6" src="https://github.com/user-attachments/assets/3b39acd1-e805-4fd5-9f93-72ab9a824ff8" />
 
-8. Locate the newly created VM on the Virtual Machines dashboard.
-
-<img width="681" height="603" alt="Screenshot 2026-01-16 115452" src="https://github.com/user-attachments/assets/e66690b3-d900-494e-b29f-817f37fd2dda" />
-
-
+ 
 
