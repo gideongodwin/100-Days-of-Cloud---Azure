@@ -21,7 +21,7 @@ The requirements are:
 
 3. From the Virtual Machines dashboard, select Create, then choose Virtual machine
 
-<img width="683" height="597" alt="2" src="https://github.com/user-attachments/assets/8164100d-1c26-4cac-9bcd-7c36bd3caffc" />
+<img width="683" height="246" alt="536767839-8164100d-1c26-4cac-9bcd-7c36bd3caffc" src="https://github.com/user-attachments/assets/dc9877bf-7bad-47f4-bbb6-bee818569e71" />
 
 4. Select the default resource group, enter the VM name, and choose the region
 
