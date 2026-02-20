@@ -17,7 +17,7 @@ Create an SSH key pair with the following requirements:
 
 4. Click on Create
 
-<img width="958" height="907" alt="3" src="https://github.com/user-attachments/assets/b0ae0ae0-3ad7-46c5-a451-c86614313916" />
+<img width="677" height="233" alt="Screenshot 2026-02-20 132915" src="https://github.com/user-attachments/assets/174b88d5-8e71-4f73-bb0c-2bfe071e8bc7" />
 
 5. Fill in the details and then click on review + create button at the bottom
 - Resource Group: Select an existing one
