@@ -16,7 +16,9 @@ An existing VM named `nautilus-vm` and a network interface named `nautilus-nic` 
 
 <img width="684" height="353" alt="537743220-27813430-98c5-4f9d-b739-e82474c6ecfb" src="https://github.com/user-attachments/assets/fd5cf96d-f21c-4da9-8c05-7965d9a83c03" />
 
-4. Select Networking > Network Settings > Attach network interface. Then in Attach existing network interface, select the network interface you'd like to attach, and select OK.
+4. Select Networking > Network Settings > Attach network interface
+
+5. Then in Attach existing network interface, select the network interface you'd like to attach, and select OK.
 
 <img width="1364" height="602" alt="Screenshot 2026-01-19 152516" src="https://github.com/user-attachments/assets/1d8ea4ba-2687-45fe-a18a-05d26121d46a" />
 
