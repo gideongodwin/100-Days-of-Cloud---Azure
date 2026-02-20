@@ -4,6 +4,8 @@
 The Nautilus DevOps team is strategizing the migration of a portion of their infrastructure to the Azure cloud. Recognizing the scale of this undertaking, they have opted to approach the migration in incremental steps rather than as a single massive transition.
 - Create a Virtual Network (VNet) named `devops-vnet` and one subnet named `devops-subnet` within the VNet in the `East US` region. Make sure the IPv4 address range is `10.0.0.0/16`
 
+#### STEPS:
+
 1. Sign in to the [Azure Portal](https://portal.azure.com/)
 
 2. Use the global search bar to search for “Virtual network.” From the results, select “Virtual network.”
@@ -12,7 +14,7 @@ The Nautilus DevOps team is strategizing the migration of a portion of their inf
 
 3. From the Virtual Network dashboard, click on create button
 
-<img width="957" height="875" alt="537295738-ae06d70b-3cd2-4400-9dc7-39d15429cd81" src="https://github.com/user-attachments/assets/929b0727-5bc7-4736-9b86-324b2454833e" />
+<img width="1151" height="425" alt="537214353-e8979721-e595-445d-b990-ff309837bbcc" src="https://github.com/user-attachments/assets/065a7b7a-7985-4659-9356-148a04e6d9bf" />
 
 4.On the Basics tab of the Create virtual network page, enter the VM name and select the appropriate region.
 
