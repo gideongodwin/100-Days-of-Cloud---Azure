@@ -1,9 +1,11 @@
 ## Day 1: Create SSH Key Pair for Azure Virtual Machine
 
 #### Task Details:
-- For this task, create an SSH key pair with the following requirements:
+Create an SSH key pair with the following requirements:
 - The name of the SSH key pair should be `xfusion-kp`
 - The key pair `type` must be `rsa`
+
+#### STEPS
 
 1. Sign in to the [Azure Portal](https://portal.azure.com/)
 
