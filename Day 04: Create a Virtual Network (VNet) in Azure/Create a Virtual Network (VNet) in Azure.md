@@ -15,6 +15,6 @@
 
 4. From the Virtual Network dashboard, enter the VM name and select the appropriate region.
 
-<img width="958" height="868" alt="3" src="https://github.com/user-attachments/assets/2891e24b-812f-416b-b33d-24d59e7057f3" />
-
 5. Click Review + create, to create the virtual network
+
+<img width="773" height="743" alt="537217457-2891e24b-812f-416b-b33d-24d59e7057f3" src="https://github.com/user-attachments/assets/10d31f0d-a69f-4232-90c9-952e14161548" />
