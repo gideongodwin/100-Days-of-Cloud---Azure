@@ -10,7 +10,7 @@ The Nautilus DevOps team is strategizing the migration of a portion of their inf
 
 2. Use the global search bar to search for “Virtual network.” From the results, select “Virtual network.”
 
-<img width="993" height="879" alt="537295630-42c4d35f-59e5-42b6-aae1-a36298715809" src="https://github.com/user-attachments/assets/d4db0812-6180-496b-a96b-8eb62375aec5" />
+<img width="1151" height="425" alt="537214353-e8979721-e595-445d-b990-ff309837bbcc" src="https://github.com/user-attachments/assets/f4a680b8-56c0-4bbb-938d-9f0676b5b05d" />
 
 3. From the Virtual Network dashboard, click on create button
 
