@@ -29,4 +29,6 @@ Create an SSH key pair with the following requirements:
 
 6. Click the refresh button to view the SSH key you just created
 
-<img width="958" height="909" alt="5" src="https://github.com/user-attachments/assets/a57ab822-5580-4a2a-8409-5f928d56159f" />
+<img width="958" height="358" alt="536435625-a57ab822-5580-4a2a-8409-5f928d56159f" src="https://github.com/user-attachments/assets/e0412319-ab47-4d21-b4b3-7283d0b97207" />
+
+ 
