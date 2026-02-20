@@ -12,7 +12,7 @@ Two blob containers named `nautilus-container-23484` and `nautilus-priv-861` are
 #### STEPS
 1. Sign in to the [Azure Portal](https://portal.azure.com/)
 2. From the Azure portal dashboard
-3.  On the Storage accounts page, select `nautilusst16449` from the list
+3. On the Storage accounts page, select `nautilusst16449` from the list
 
 <img width="676" height="347" alt="Screenshot 2026-02-11 083303" src="https://github.com/user-attachments/assets/dfb8d23e-5371-434b-8c53-4c62cf588ba7" />
 
