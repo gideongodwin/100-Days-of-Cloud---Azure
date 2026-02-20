@@ -16,7 +16,7 @@ The Nautilus DevOps team is strategizing the migration of a portion of their inf
 
 <img width="957" height="875" alt="537295738-ae06d70b-3cd2-4400-9dc7-39d15429cd81" src="https://github.com/user-attachments/assets/48ed7850-0d4c-4e7a-8543-b19386d21a0d" />
  
-4.On the Basics tab of the Create virtual network page, enter the VM name and select the appropriate region.
+4.On the Basics tab, Enter the VM name and select the appropriate region.
 
 <img width="679" height="600" alt="Screenshot 2026-01-19 141124" src="https://github.com/user-attachments/assets/091b9b36-5a4d-49a3-82c4-68b1aec6ef74" />
 
