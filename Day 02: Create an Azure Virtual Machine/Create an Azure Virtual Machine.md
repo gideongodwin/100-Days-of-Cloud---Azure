@@ -11,6 +11,8 @@ The requirements are:
 -  Attach a 30 GB storage disk of type `Standard HDD`.
 -  The rest of the configurations should remain as default.
 
+#### STEPS
+
 1. Sign in to the [Azure Portal](https://portal.azure.com/)
 
 2. Select the "Virtual Machines" from the Azure portal  
