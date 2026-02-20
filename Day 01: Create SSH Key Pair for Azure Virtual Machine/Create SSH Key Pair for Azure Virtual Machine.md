@@ -9,13 +9,11 @@ Create an SSH key pair with the following requirements:
 
 1. Sign in to the [Azure Portal](https://portal.azure.com/)
 
-<img width="1920" height="570" alt="1" src="https://github.com/user-attachments/assets/1e709f3e-e9b1-4875-86f7-eef6c75fc6e6" />
-
 2. Use the global search bar to search for "SSH keys"
 
 3. From the results, select the SSH Keys service
 
-<img width="1920" height="566" alt="2" src="https://github.com/user-attachments/assets/33a3a878-2133-4b82-9771-3fd75ab6c6b9" />
+<img width="820" height="309" alt="536431227-33a3a878-2133-4b82-9771-3fd75ab6c6b9" src="https://github.com/user-attachments/assets/c027615b-edac-42e8-b044-a0c5822dbcc6" />
 
 4. Click on Create
 
