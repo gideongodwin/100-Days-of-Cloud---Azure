@@ -6,6 +6,8 @@ An existing VM named `nautilus-vm` and a network interface named `nautilus-nic` 
 - Ensure the NIC's status is `attached` before submitting the task.
 - Make sure that the virtual machine initialization has been completed before submitting this task.
 
+#### STEPS
+
 1. Sign in to the [Azure Portal](https://portal.azure.com/)
 
 2. Search for and select Virtual machines.
