@@ -1,4 +1,4 @@
-<img width="593" height="266" alt="Screenshot 2026-02-23 111833" src="https://github.com/user-attachments/assets/b7d63cb7-8f1b-499b-9469-04896e1ad4ef" /><img width="593" height="266" alt="Screenshot 2026-02-23 111833" src="https://github.com/user-attachments/assets/b7d63cb7-8f1b-499b-9469-04896e1ad4ef" />## Day 26: Deploying Virtual Machines in a Public Virtual Network
+## Day 26: Deploying Virtual Machines in a Public Virtual Network
 
 #### Task Details 
 The Nautilus DevOps Team has received a request from the Networking Team to set up a new public-facing services. This VNet will host various resources that need to be accessible over the internet. As part of this setup, you need to ensure the VNet has public subnets with automatic public IP assignment for resources. Additionally, a new VM will be launched within this VNet to host public applications that require SSH access. This setup will enable the Networking Team to deploy and manage public-facing applications.
@@ -9,7 +9,15 @@ The Nautilus DevOps Team has received a request from the Networking Team to set 
 1. Sign in to the [Azure Portal](https://portal.azure.com/) 
 
 2. Use the global search bar to search for “Virtual network.” From the results, select “Virtual network.”
+3. From the Virtual Network dashboard, click on create button
 
 <img width="593" height="266" alt="Screenshot 2026-02-23 111833" src="https://github.com/user-attachments/assets/ec81721c-2958-4ce1-b637-0cee8279311f" />
+<img width="678" height="254" alt="Screenshot 2026-02-23 111905" src="https://github.com/user-attachments/assets/e155f6d2-aec2-42ba-8122-92fe8876e2b2" />
+
+4. On the Basics tab of the Create virtual network page, enter the VM name and select the appropriate region.
  
-3. From the Virtual Network dashboard, click on create button
+<img width="681" height="532" alt="Screenshot 2026-02-23 111932" src="https://github.com/user-attachments/assets/79ffcfc2-239f-4d03-ad36-6dd8bdb08d53" />
+
+5. On the IP addresses tab, select Add subnet
+<img width="681" height="208" alt="Screenshot 2026-02-23 111957" src="https://github.com/user-attachments/assets/2dfcdea3-115b-48f6-824d-20cc71d9291c" />
+ 
