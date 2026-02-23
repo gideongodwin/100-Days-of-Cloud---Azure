@@ -28,7 +28,26 @@ The Nautilus DevOps Team has received a request from the Networking Team to set 
 7. Then, click on create button
 <img width="682" height="593" alt="Screenshot 2026-02-23 112104" src="https://github.com/user-attachments/assets/fbc20896-6272-429f-843f-b9534f5f7a85" />
 
-8.
+8. Use the global search bar to search for “Virtual machines.” From the results, select “Virtual machines"
+9. From the Virtual machines dashboard, click on create button
+
+<img width="574" height="209" alt="Screenshot 2026-02-23 112452" src="https://github.com/user-attachments/assets/dc42d460-31c2-4ac5-959b-e74231019ef5" />
+<img width="681" height="268" alt="Screenshot 2026-02-23 112521" src="https://github.com/user-attachments/assets/f5312e06-537c-4625-9783-953d589dda28" />
+
+10. Select the existing resource group, enter the VM name, and choose the region
+
+<img width="663" height="187" alt="Screenshot 2026-02-23 112908" src="https://github.com/user-attachments/assets/ceab9433-93bf-4a00-84fb-8a3c5546160c" />
+
+11. Select Review + Create
+
+<img width="665" height="199" alt="Screenshot 2026-02-23 112940" src="https://github.com/user-attachments/assets/70a36ac8-d7ce-4e04-9f94-71c020b1c1a3" />
+
+
+
+
+
+
+
 
 
 
