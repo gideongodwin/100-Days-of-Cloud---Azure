@@ -20,4 +20,18 @@ The Nautilus DevOps Team has received a request from the Networking Team to set 
 
 5. On the IP addresses tab, select Add subnet
 <img width="681" height="208" alt="Screenshot 2026-02-23 111957" src="https://github.com/user-attachments/assets/2dfcdea3-115b-48f6-824d-20cc71d9291c" />
+
+6. Enter a name for the subnet.
+
+<img width="681" height="598" alt="Screenshot 2026-02-23 112521" src="https://github.com/user-attachments/assets/eabad531-b36e-402e-b6e4-fa71957fc0f1" />
+
+7. Then, click on create button
+<img width="682" height="593" alt="Screenshot 2026-02-23 112104" src="https://github.com/user-attachments/assets/fbc20896-6272-429f-843f-b9534f5f7a85" />
+
+8.
+
+
+
+
+
  
