@@ -10,7 +10,8 @@ As a DevOps team member, complete the following tasks:
 #### STEPS
 1. Sign in to the [Azure Portal](https://portal.azure.com/)
 
-Step 2: Verify VNet Configuration
+### Verify VNet Configuration \ 
+
 6. In the resource group, select the route table resource
 
 <img width="675" height="366" alt="Screenshot 2026-02-26 132301" src="https://github.com/user-attachments/assets/fa25bec1-5445-43a6-8ebc-9da49fc92cb8" />
