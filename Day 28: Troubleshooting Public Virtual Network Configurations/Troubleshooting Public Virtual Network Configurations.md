@@ -9,18 +9,16 @@ As a DevOps team member, complete the following tasks:
 
 #### STEPS
 1. Sign in to the [Azure Portal](https://portal.azure.com/)
-
-### Verify VNet Configuration \ 
-
-6. In the resource group, select the route table resource
+2. Verify VNet Configuration
+- In the resource group, select the route table resource
 
 <img width="675" height="366" alt="Screenshot 2026-02-26 132301" src="https://github.com/user-attachments/assets/fa25bec1-5445-43a6-8ebc-9da49fc92cb8" />
 
-7. Under Settings, select Routes, select the `Block-Internet` route, and then select Delete
+- Under Settings, select Routes, select the `Block-Internet` route, and then select Delete
 
 <img width="670" height="368" alt="Screenshot 2026-02-26 132406" src="https://github.com/user-attachments/assets/98bc314b-12ff-4643-a50f-06554de24e47" />
 
-8. Select Add, and then create a new route named Allow-Internet with the following settings:
+- Select Add, and then create a new route named Allow-Internet with the following settings:
 
 2. On the Azure portal dashboard, select Resource groups
 
