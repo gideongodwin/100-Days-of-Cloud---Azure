@@ -43,17 +43,19 @@ Step 4: Attach the Public IP Address to the VM
 
 Step 5: Install and Verify Nginx on the VM
 
-  `ssh azureuser@<public-ip>` \ 
-  `sudo apt install nginx -y` \ 
-  `systemctl status nginx` \ 
-  `exit` \
+```
+ssh azureuser@<public-ip>
+sudo apt install nginx -y
+systemctl status nginx
+exit
+```
 
 Step 6: Confirm Internet Accessibility on Port 80
 - Run the following command to verify that xfusion-vm is accessible from the internet on port 80. Replace <public-ip> with the public IP address of xfusion-vm.
 
   `curl -Ik <public-ip>` \
   
-Confirm that the response returns `HTTP/1.1 200 OK` indicating that the Nginx server is accessible from the internet.
+- Confirm that the response returns `HTTP/1.1 200 OK` indicating that the Nginx server is accessible from the internet.
 
   
 
