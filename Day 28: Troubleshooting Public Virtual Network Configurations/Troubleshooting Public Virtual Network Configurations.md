@@ -8,7 +8,7 @@ As a DevOps team member, complete the following tasks:
 - Ensure Accessibility: Confirm the VM `xfusion-vm` is accessible on `port 80`
 
 #### STEPS
-Step 1. Sign in to the [Azure Portal](https://portal.azure.com/)
+Step 1. Sign in to the [Azure Portal](https://portal.azure.com/) \
 Step 2. Verify VNet Configuration
 - In the resource group, select the route table resource
 
