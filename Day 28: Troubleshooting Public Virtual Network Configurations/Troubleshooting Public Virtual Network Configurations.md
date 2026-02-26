@@ -20,6 +20,8 @@ As a DevOps team member, complete the following tasks:
 
 - Select Add, and then create a new route named Allow-Internet with the following settings:
 
+<img width="679" height="596" alt="Screenshot 2026-02-26 132528" src="https://github.com/user-attachments/assets/aa71f530-a5b1-49f6-a524-f363106afc94" />
+
 2. On the Azure portal dashboard, select Resource groups
 
 <img width="547" height="200" alt="Screenshot 2026-02-26 130246" src="https://github.com/user-attachments/assets/d2918606-e08b-4a61-8562-99f6870dff19" />
