@@ -21,3 +21,25 @@ az acr create \
   --sku Basic \
   --location eastus
 ```
+- Step 2: Navigate to the Dockerfile Directory
+```
+cd /root/pyapp
+```
+- Step 3: Build the Docker image and tag it correctly for ACR.
+```
+docker build -t devopsacr21738.azurecr.io/devopsacr21738:latest .
+```
+- Step 4: Login to Azure Container Registry
+```
+az acr login -n devopsacr21738
+```
+- Step 5: Push the Image to ACR
+```
+docker push devopsacr21738.azurecr.io/devopsacr21738:latest
+```
+- Step 6: Confirm the image was pushed successfully
+```
+az acr repository show-tags \
+  -n devopsacr21738 \
+  --repository devopsacr21738
+```
