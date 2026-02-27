@@ -13,4 +13,11 @@ The Nautilus DevOps team has been tasked with setting up a containerized applica
 4) Build a Docker image using this Dockerfile and push the same to the newly created ACR repo. The image tag must be `latest` i.e `devopsacr21738:latest`
 
 #### STEPS
-🔹 Step 1: Create the Azure Container Registry (ACR)
+- Step 1: Create the Azure Container Registry (ACR)
+```
+az acr create \
+  --name devopsacr21738 \
+  --resource-group $(az group list --query '[].name' --output tsv | grep kml) \
+  --sku Basic \
+  --location eastus
+```
