@@ -39,3 +39,16 @@ Password: Enter and confirm a strong password
 ```
 <img width="960" height="864" alt="Screenshot 2026-03-02 201324" src="https://github.com/user-attachments/assets/31a1713e-2c77-4ea0-9aa6-fe833539f5b9" />
 
+5. On the Basics tab, under Compute + storage, select Configure database, choose the Basic tier
+
+<img width="718" height="76" alt="Screenshot 2026-03-02 203639" src="https://github.com/user-attachments/assets/0b5a23d8-0ad4-44c2-9344-7860bbb8be34" />
+
+6. On the Basics tab, set Backup storage redundancy to Locally-redundant backup storage
+<img width="957" height="698" alt="Screenshot 2026-03-02 201425" src="https://github.com/user-attachments/assets/af09c1f6-9839-4fc2-8519-267df57bb8c7" />
+
+7. Review + Create
+
+
+
+
+
