@@ -37,5 +37,5 @@ Authentication method: Use SQL authentication
 Server admin login: devops-admin
 Password: Enter and confirm a strong password
 ```
-
+<img width="960" height="864" alt="Screenshot 2026-03-02 201324" src="https://github.com/user-attachments/assets/31a1713e-2c77-4ea0-9aa6-fe833539f5b9" />
 
