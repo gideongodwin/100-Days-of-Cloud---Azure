@@ -35,6 +35,9 @@ Add an inbound rule to the existing NSG of the VM to allow HTTP traffic on port 
 7. Enter a name for the backend pool and add IP configurations.
 
 <img width="633" height="424" alt="Screenshot 2026-03-05 100427" src="https://github.com/user-attachments/assets/0d1f6f97-906f-4b39-9534-be6f815161af" />
+<img width="657" height="581" alt="Screenshot 2026-03-05 100443" src="https://github.com/user-attachments/assets/3c9412fc-07dc-446e-842f-79eddb18b171" />
+
+
 
 
 
